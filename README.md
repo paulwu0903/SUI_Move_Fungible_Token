@@ -303,6 +303,7 @@ Array [
 ]
 ```
 SUI Explorer畫面：
+
 ![](https://hackmd.io/_uploads/B1-JNwkI3.png)
 
 
@@ -390,9 +391,11 @@ Array [
 ```
 
 SUI Explorer畫面：
+
 ![](https://hackmd.io/_uploads/rkjANwkI2.png)
 
 重複執行5次：
+
 ![](https://hackmd.io/_uploads/Hk3QrvyL3.png)
 
 ### Step7: 執行join，將剛剛拆出來的2個object合併成1個object：
@@ -466,6 +469,7 @@ Array [
 ]
 ```
 * SUI Explorer:
+
 ![](https://hackmd.io/_uploads/BkAiwwkU3.png)
 
 ### Step8: 執行burn，燃燒剛剛合併為4顆代幣的object。
