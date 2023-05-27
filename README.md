@@ -303,7 +303,7 @@ Array [
 ]
 ```
 SUI Explorer畫面：
-<img src=https://hackmd.io/_uploads/B1-JNwkI3.png/>
+![](https://hackmd.io/_uploads/B1-JNwkI3.png)
 
 
 ### Step6: 執行split，將100顆幣拆出2顆，最終變成2個object，一個是原本的100顆，他會變成98顆，另一個object會被生成，並存放2顆剛剛拆出來的幣：
@@ -390,7 +390,7 @@ Array [
 ```
 
 SUI Explorer畫面：
-<img src=https://hackmd.io/_uploads/rkjANwkI2.png/>
+![](https://hackmd.io/_uploads/rkjANwkI2.png)
 
 重複執行5次：
 ![](https://hackmd.io/_uploads/Hk3QrvyL3.png)
@@ -466,7 +466,7 @@ Array [
 ]
 ```
 * SUI Explorer:
-<img src=https://hackmd.io/_uploads/BkAiwwkU3.png/>
+![](https://hackmd.io/_uploads/BkAiwwkU3.png)
 
 ### Step8: 執行burn，燃燒剛剛合併為4顆代幣的object。
 ```shell=
@@ -548,7 +548,8 @@ Array [
 
 * SUI Explorer: 
 
-<img src=https://hackmd.io/_uploads/rk8ouwyIh.png/>
+![](https://hackmd.io/_uploads/rk8ouwyIh.png)
+
 
 ### Step9: 執行update_name，更改幣名。
 
@@ -638,7 +639,8 @@ Array [
 
 * SUI Explorer:
 
-<img src=https://hackmd.io/_uploads/ry1Q52yU2.png/>
+![](https://hackmd.io/_uploads/ry1Q52yU2.png)
+
 ### Step10: 執行update_symbol，更改symbol。
 ```shell=
 sui client call --package 0xdca58a672c11ab5a2d8118577003f4563c0bd3e2d67ed5be74e41186368901b0 --module "fungible_token" --function "update_symbol" --args 0x7cea9b8495e1009067eb0a81b7c768908b30ff1df02ede2a8d5b437170f1bc92 0x537be0440e4cc8276d24d6ca1c573c72984f73616cb3ba63cd973efc0e21f524 "UPW" --gas-budget 3000000
@@ -724,9 +726,10 @@ Array [
 ]
 ```
 * SUI Explorer: 
-<img src=https://hackmd.io/_uploads/r15Wshk82.png/>
 
-<img src=https://hackmd.io/_uploads/Hyvro3kL3.png/>
+![](https://hackmd.io/_uploads/r15Wshk82.png)
+
+![](https://hackmd.io/_uploads/Hyvro3kL3.png)
 
 ### Step11: 執行update_description，更新描述
 ```shell=
@@ -814,7 +817,8 @@ Array [
 ```
 
 * SUI Explorer:
-<img src=https://hackmd.io/_uploads/BkEJn2yIn.png/>
+
+![](https://hackmd.io/_uploads/BkEJn2yIn.png)
 
 ### Step12: 執行update_icon_url，更新表示代幣的圖示。
 ```shell=
@@ -902,4 +906,5 @@ Array [
 ```
 
 * SUI Explorer: 
-<img src=https://hackmd.io/_uploads/rkJO6n18n.png/>
+
+![](https://hackmd.io/_uploads/rkJO6n18n.png)
